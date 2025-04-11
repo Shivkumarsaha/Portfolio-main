@@ -1,12 +1,10 @@
-# Rajiv Kumar's Portfolio
+# Shiv Kumar's Portfolio
 
 Welcome to my personal portfolio website. This portfolio showcases my skills, projects, and background as a front-end developer. You can explore the various sections to learn more about me, my work, and how to get in touch.
 
 ## Demo
 
-You can view the live demo of my portfolio [here](https://rajiv-0920.github.io/Portfolio/).
-
-![Portfolio Screenshot](./assets/portfolio.png)
+You can view the live demo of my portfolio [here]
 
 ## Features
 
@@ -79,8 +77,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 If you have any questions or want to connect, feel free to reach out to me:
 
-- **Email**: [your-email@example.com](mailto:kumarrajiv0920@gmail.com)
-- **LinkedIn**: [linkedin.com/in/rajiv4373](https://www.linkedin.com/in/rajiv4373)
-- **Twitter**: [x.com/rajiv_0920](https://x.com/rajiv_0920)
+- **Email**: [your-email@example.com]
+- **LinkedIn**: [linkedin.com/
+- **Twitter**: [x.com/
 
 Thank you for visiting my portfolio!
