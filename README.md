@@ -5,7 +5,9 @@ Welcome to my personal portfolio website. This portfolio showcases my skills, pr
 ## Demo
 
 You can view the live demo of my portfolio [here]
-![IMG_20250411_165228](https://github.com/user-attachments/assets/b3f797ff-d688-4b49-952d-9f7a84c525bb)
+![IMG_20250411_170552](https://github.com/user-attachments/assets/849f2908-2cdd-4504-bdf0-42afd77ab7c7)
+
+
 
 ## Features
 
@@ -30,7 +32,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Rajiv-0920/Portfolio.git
+    git clone https://github.com/
     ```
 2. Navigate to the project directory:
     ```bash
