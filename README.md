@@ -5,6 +5,7 @@ Welcome to my personal portfolio website. This portfolio showcases my skills, pr
 ## Demo
 
 You can view the live demo of my portfolio [here]
+![IMG_20250411_165228](https://github.com/user-attachments/assets/b3f797ff-d688-4b49-952d-9f7a84c525bb)
 
 ## Features
 
