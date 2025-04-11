@@ -80,8 +80,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 If you have any questions or want to connect, feel free to reach out to me:
 
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [linkedin.com/
-- **Twitter**: [x.com/
+- **Email**: myselfshivsaha@gmail.com
+- **LinkedIn**: www.linkedin.com/in/shiv-kumar-saha
+- **Twitter**: https://x.com/Shiv_Kumar_Saha?t=rojsYEouEtiFlf02rH6woQ&s=08
 
+ 
 Thank you for visiting my portfolio!
