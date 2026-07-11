@@ -1,12 +1,13 @@
-# Rajiv Kumar's Portfolio
+# Shiv Kumar's Portfolio
 
 Welcome to my personal portfolio website. This portfolio showcases my skills, projects, and background as a front-end developer. You can explore the various sections to learn more about me, my work, and how to get in touch.
 
 ## Demo
 
-You can view the live demo of my portfolio [here](https://rajiv-0920.github.io/Portfolio/).
+You can view the live demo of my portfolio [here]
+![IMG_20250411_170552](https://github.com/user-attachments/assets/849f2908-2cdd-4504-bdf0-42afd77ab7c7)
 
-![Portfolio Screenshot](./assets/portfolio.png)
+
 
 ## Features
 
@@ -31,7 +32,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Rajiv-0920/Portfolio.git
+    git clone https://github.com/Shivkumarsaha/Portfolio-main.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -79,8 +80,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 If you have any questions or want to connect, feel free to reach out to me:
 
-- **Email**: [your-email@example.com](mailto:kumarrajiv0920@gmail.com)
-- **LinkedIn**: [linkedin.com/in/rajiv4373](https://www.linkedin.com/in/rajiv4373)
-- **Twitter**: [x.com/rajiv_0920](https://x.com/rajiv_0920)
+- **Email**: myselfshivsaha@gmail.com
+- **LinkedIn**: www.linkedin.com/in/shiv-kumar-saha
+- **Twitter**: https://x.com/Shiv_Kumar_Saha?t=rojsYEouEtiFlf02rH6woQ&s=08
 
+ 
 Thank you for visiting my portfolio!
