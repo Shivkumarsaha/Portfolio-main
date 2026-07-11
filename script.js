@@ -20,28 +20,31 @@ function menuToggle() {
 const projects =
     [
         {
-            projectImageURL: "/assets/liveobject.png",
+            projectImageURL: "./assets/liveobject.png",
             projectName: "live obejct detection",
             projectTags: ["python","ai"],
             projectURL: "https://github.com/Shivkumarsaha/live-object-detection.git",
             codeURL: "https://github.com/Shivkumarsaha/live-object-detection/blob/main/camtest.py",
+            challenge: "YOLOv8 & OpenCV"
             
         }
         ,
         {
-            projectImageURL: "/assets/stdgradesystem.png",
+            projectImageURL: "./assets/stdgradesystem.png",
             projectName: "Student Grade Management System",
             projectTags: ["JAVA","Swing","MySQL"],
             projectURL: "https://github.com/Shivkumarsaha/student-grade-management-system.git",
             codeURL: "https://github.com/Shivkumarsaha/student-grade-management-system/blob/main/src/ui/StudentGradeManagementSystem.java",
+            challenge: "Java Swing & MySQL"
          }
          ,
          {
-          projectImageURL: "/assets/lock.jpeg",
+          projectImageURL: "./assets/lock.jpeg",
             projectName: "RFID And Keypad Based Door Lock System",
             projectTags: ["ArduinoUno","RFID","Sensor"],
             projectURL: "https://github.com/Shivkumarsaha/RFID-and-Kepad-Based-Door-Lock-System-Using-Arduino/tree/main/RFID-Keypad-Smart-Door-Lock-IoT",
             codeURL: "https://github.com/Shivkumarsaha/RFID-and-Kepad-Based-Door-Lock-System-Using-Arduino/blob/main/RFID-Keypad-Smart-Door-Lock-IoT/FINAL%20CODE%20OF%20IOT.txt",
+            challenge: "Arduino & RFID"
          }
     ]
 
@@ -70,7 +73,7 @@ function loadProjects() {
                         <h3 class="pro-title">${projects[i].projectName}</h3>
                         <ul class="tags">
                         </ul >
-            <p>Challenged by <a href="${projects[i].challengeByURL}" class="front-end">${projects[i].challengeBy}</a></p>
+           
             <div class="actions">
                 <a href="${projects[i].projectURL}" class="btn primary">View
                     Project</a>
